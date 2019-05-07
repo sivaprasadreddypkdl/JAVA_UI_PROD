@@ -4,6 +4,7 @@
 	<groupId>com.example</groupId>
 	<artifactId>ROOT</artifactId>
 	<packaging>war</packaging>
+	<version>SNAPSHOT</version>
 	
 	<name>spring3 mvc maven</name>
 
